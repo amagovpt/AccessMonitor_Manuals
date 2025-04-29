@@ -11,9 +11,9 @@
   - [Aceder às estatísticas do sítio web](#aceder-às-estatísticas-do-sítio-web)
   - [Gestão de páginas no MyMonitor](#gestão-de-páginas-no-mymonitor)
   - [Adicionar páginas no MyMonitor](#adicionar-páginas-no-mymonitor)
-  - [Escolha a sua modal de importação de páginas](#escolha-a-sua-modal-de-importação-de-páginas)
+  - [Como importar páginas do seu sítio web](#escolha-a-sua-modal-de-importação-de-páginas)
     - [Inserir manualmente](#inserir-manualmente)
-    - [Inserir sitemap](#inserir-sitemap)
+    - [Inserir mapa do sítio web](#inserir-sitemap)
     - [Crawl do sítio web](#crawl-do-sítio-web)
     - [Transferir do Observatório](#transferir-do-observatório)
   - [Remover páginas no MyMonitor](#remover-páginas-no-mymonitor)
@@ -71,13 +71,13 @@ Assim que receber as credenciais da AMA, poderá aceder ao MyMonitor utilizando 
 
 Visite o site oficial do MyMonitor e faça login com as suas credenciais, nomeadamente utilizador e palavra-chave.
 
-![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/pagina-login.png)
+![Página de autenticação da plataforma MyMonitor com recurso ao Cartão de Cidadão/Chave Móvel Digital](https://github.com/ArianNexux01/my-monitor/blob/main/images/pagina-login.png)
 
 ### Visualizar os sítios web
 
 Na página inicial, verá uma lista de todos os seus **sítios web** com informações relevantes como o **nome da página**, **pontuação do AccessMonitor**, **declaração de acessibilidade**, **selo de acessibilidade e usabilidade** e **número de páginas** segundo os níveis de conformidade das WCAG, sendo **A** (o nível mais baixo), **AA** (nível intermédio) e **AAA** (o mais alto). Clique no nome do sítio web para aceder aos seus dados.
 
-![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/paginas-listagem-sitios.png)
+![Página inicial dos sítios web a monitorizar: exemplo - Portal da Justiça](https://github.com/ArianNexux01/my-monitor/blob/main/images/paginas-listagem-sitios.png)
 
 ### Aceder às estatísticas do sítio web
 
@@ -90,7 +90,7 @@ Estas estatísticas incluem:
 - As **10 melhores e piores práticas de acessibilidade** presentes no seu sítio web e a sua distribuição detalhada;
 - A **tabela da lista de páginas totais** que compõem o seu sítio web.
 
-![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/pagina-estatisticas.png)
+![Exemplo do página das estatísticas do sítio web a monitorizar com apresentação da macha de acessibilidade e distribuição de pontuações](https://github.com/ArianNexux01/my-monitor/blob/main/images/pagina-estatisticas.png)
 
 
 ## Gestão de páginas no MyMonitor
@@ -101,36 +101,36 @@ Para adicionar uma nova página ao seu sítio web, clique no seu sítio web e pe
 
 De seguida clique no botão "Adicionar" como ilustrado na imagem abaixo para incluir novas páginas. Será redirecionado para uma nova página.  
 
-![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/section-listar-paginas.png)
+![Secção Páginas do sítio web com seta para adicionar páginas](https://github.com/ArianNexux01/my-monitor/blob/main/images/section-listar-paginas.png)
 
 ### Escolha uma das quatro opções para importar as páginas do seu sítio web
 Esta página dispõe de quatro opções para a importação das páginas a avaliar.  
 
 Ao clicar no botão “Adicionar”, será redirecionado para uma página com 4 abas. Estas abas oferecem **quatro opções** para a importação das páginas a avaliar.
 
-![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/adicionar-paginas.png)
+![Página onde consta as quatro opções de importação de páginas: inserir manualmente, inserir mapa do sítio web, crawl sítio web e transferir do Observatório](https://github.com/ArianNexux01/my-monitor/blob/main/images/adicionar-paginas.png)
 
 Escolha uma das quatro opções de importação de páginas:
 
  - #### a) Inserir manualmente
     Adicione páginas inserindo os respetivos **URLs** diretamente na caixa de texto.
 
-![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/adicionar-paginas.png)
+![Opção de como inserir manualmente as páginas ao sítio web](https://github.com/ArianNexux01/my-monitor/blob/main/images/adicionar-paginas.png)
 
  - #### b) Inserir sitemap
     Importe páginas a partir de um ficheiro em formato **TXT** ou **XML**. Veja exemplos de mapa de sítios web em [formato txt](#) e [formato xml](#) ao clicar nos links para o efeito.
 
-    ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/inserir-sitemap.png)
+    ![Opção de como inserir mapa do sítio web com botão para escolher ficheiro](https://github.com/ArianNexux01/my-monitor/blob/main/images/inserir-sitemap.png)
 
  - #### c) Crawl do sítio web
     Execute uma análise automática para identificar páginas indexadas ao seu sítio web. Este *crawl* **não tem limite de páginas**, contudo as páginas sob login que necessitem de autenticação não serão avaliadas.
 
-    ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/crawl-sitio-web.png)
+    ![Opção de fazer crawl do sítio web ](https://github.com/ArianNexux01/my-monitor/blob/main/images/crawl-sitio-web.png)
 
  - #### d) Transferir do Observatório
     Transfira as páginas já analisadas pelo **Observatório Português da Acessibilidade Web**.
 
-    ![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/transfer-observatory.png)
+    ![Opção de importar páginas do Observatório Português da Acessibilidade Web](https://github.com/ArianNexux01/my-monitor/blob/main/images/transfer-observatory.png)
     
 Neste último caso, além das páginas, também será importada a **última avaliação realizada pela AMA**, mas qualquer nova análise feita no MyMonitor será **independente da avaliação oficial do Observatório**.
 
@@ -140,7 +140,7 @@ Para remover uma página ao seu sítio web, clique no seu sítio web e percorra 
 
 De seguida, selecione a **caixa de seleção** da página que deseja remover e depois clique no botão **"Remover"** como ilustrado na imagem abaixo.
 
-![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/remove-page.png)
+![Secção das páginas do sítio web com a página selecionada na caixa de seleção e seta para a opção Remover](https://github.com/ArianNexux01/my-monitor/blob/main/images/remove-page.png)
 
 ## Ações corretivas
 
@@ -152,7 +152,7 @@ Para isso, clique no seu sítio web e percorra a página das estatísticas até 
 
 Selecione a página a atualizar e clique em **“Reavaliar”** para uma nova análise.
 
-![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/reavaliate-page.png)
+![Secção páginas do sítio web com seta para como "reavaliar páginas"](https://github.com/ArianNexux01/my-monitor/blob/main/images/reavaliate-page.png)
 
 ### Consultar o relatório de práticas de acessibilidade web
 
@@ -163,7 +163,7 @@ Clique numa página na tabela para ver o **relatório de práticas de acessibili
 
 **Nota**: Atualmente, os relatórios só podem ser descarregados individualmente para cada página.
 
-![Alt text](https://github.com/ArianNexux01/my-monitor/blob/main/images/page-estatisticas.png)
+![Página do relatório de práticas de acessibilidade Web (WCAG 2.1 Do W3C) com o sumário e a avaliação por tipo de práticas (aceitáveis, para ver manualmente, não aceitáveis)](https://github.com/ArianNexux01/my-monitor/blob/main/images/page-estatisticas.png)
 
 ## Perguntas frequentes
 
