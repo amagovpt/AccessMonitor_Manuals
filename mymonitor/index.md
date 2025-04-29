@@ -71,7 +71,7 @@ Assim que receber as credenciais da AMA, poderá aceder ao MyMonitor utilizando 
 
 Visite o site oficial do MyMonitor e faça login com as suas credenciais, nomeadamente utilizador e palavra-chave.
 
-![Página de autenticação da plataforma MyMonitor com recurso ao Cartão de Cidadão/Chave Móvel Digital](https://github.com/ArianNexux01/my-monitor/blob/main/images/pagina-login.png)
+![Página de autenticação da plataforma MyMonitor com recurso ao Cartão de Cidadão/Chave Móvel Digital](images/pagina-login.png)
 
 ### Visualizar os sítios web
 
